@@ -1,0 +1,13 @@
+tcpdump
+tinc
+udpxy
+vlmcsd
+luci-app-udpxy	
+dnsmasq-full	
+curl
+igmpproxy
+ipset
+iptables-mod-tproxy
+open-vm-tools
+
+
