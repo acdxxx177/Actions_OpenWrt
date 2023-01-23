@@ -5,9 +5,14 @@ vlmcsd
 luci-app-udpxy	
 dnsmasq-full	
 curl
+vsftpd
 igmpproxy
 ipset
 iptables-mod-tproxy
 open-vm-tools
 
-
+kmod-usb-net-rndis 
+kmod-usb-net 
+kmod-usb2 
+usb-modeswitch 
+kmod-usb-net-cdc-ether

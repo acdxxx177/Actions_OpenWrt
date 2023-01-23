@@ -19,8 +19,3 @@
 #vlmcsd
 git clone https://github.com/cokebar/openwrt-vlmcsd.git ./package/openwrt-vlmcsd
 git clone https://github.com/cokebar/luci-app-vlmcsd.git ./package/luci-app-vlmcsd
-
-#xray
-git clone https://github.com/yichya/openwrt-xray.git ./package/openwrt-xray
-git clone https://github.com/yichya/luci-app-xray.git ./package/luci-app-xray
-git clone https://github.com/Mitsuhaxy/luci-i18n-xray-zh-cn.git ./package/luci-i18n-xray-zh-cn
