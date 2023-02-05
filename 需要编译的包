@@ -2,6 +2,7 @@ tcpdump
 tinc
 udpxy
 vlmcsd
+luic-app-upnp
 luci-app-udpxy	
 dnsmasq-full	
 curl
