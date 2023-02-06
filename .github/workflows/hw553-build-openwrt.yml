@@ -18,6 +18,7 @@ on:
       - "hw553.config"
       - "diy-part1.sh"
       - "diy-part2.sh"
+  workflow_dispatch:
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt.git
