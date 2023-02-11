@@ -2,11 +2,13 @@ tcpdump
 tinc
 udpxy
 vlmcsd
+luci
 luic-app-upnp
 luci-app-udpxy	
 dnsmasq-full	
 curl
 vsftpd
+openssh-sftp-server
 igmpproxy
 ipset
 iptables-mod-tproxy
